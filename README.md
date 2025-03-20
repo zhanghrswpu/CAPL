@@ -15,12 +15,10 @@ The implementation of CAPL.
 
 The below function is used to perform seen anomaly detection,
 ```python
-cd seen_anomaly_detection
 run_seen_anomaly_detection(args)
 ```
 while *run_unseen_anomaly_detection(args)* is used to perform unseen anomaly detection.
 ```python
-cd unseen_anomaly_detection
 run_unseen_anomaly_detection(args)
 ```
 CAPL is implemented using Tensorflow/Keras. The main packages and their versions used in this work are provided as follows:
