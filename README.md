@@ -1,8 +1,6 @@
 # CAPL
 The implementation of CAPL.
-## Datasets
-## 数据集信息  
-
+## Datasets 
 | Dataset  | #sample | link |  
 |------------|---------|----------|  
 | donors | 619,326 | [Kaggle](https://www.kaggle.com/c/kdd-cup-2014-predictingexcitement-at-donors-choose) |  
